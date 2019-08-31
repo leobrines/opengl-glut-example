@@ -5,7 +5,7 @@ All credits to https://www.geeksforgeeks.org/getting-started-with-opengl/
 
 ## Requisites
 
-# On Linux
+### On Linux
 For installing OpenGL on ubuntu, just execute the following command (like installing any other thing) in terminal:
 ```sh
 sudo apt-get install freeglut3-dev
