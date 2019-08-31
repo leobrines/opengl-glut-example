@@ -100,21 +100,6 @@ void myDisplay(void) {
 				flag1 = 0; 
 			} 
 
-			/*
-			if (m == 288) { 
-				m = -288; 
-
-				if (flag1 == 0) { 
-					j = -1; 
-					flag1 = 1; 
-					score++; 
-				} 
-				else if (flag1 == 1) { 
-					j = 1; 
-					flag1 = 0; 
-				} 
-			} 
-			*/
 			//flag2 is 0 to show motion in rightward direction and is 1 for leftward direction 
 			if (n == 580 && flag2 == 0) {
 				l = -1;
